@@ -17,6 +17,7 @@ public class Main {
             System.out.println("3");
 
             System.out.println("Master 1");
+            System.out.println("Master 2");
         }
     }
 }
