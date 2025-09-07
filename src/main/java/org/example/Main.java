@@ -15,6 +15,12 @@ public class Main {
             System.out.println("1");
             System.out.println("2");
             System.out.println("3");
+
+            System.out.println("Master 1");
+            System.out.println("Master 2");
+            System.out.println("Master 3");
+            System.out.println("Master 4");
+
             System.out.println("Branch1 --- 4");
             System.out.println("Branch1 --- 5");
             System.out.println("Branch1 --- 6");
